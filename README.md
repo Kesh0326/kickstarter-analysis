@@ -1,6 +1,6 @@
 # An analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
-![Outcomes Based on Launched Date] (file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/Outcomes%20Based%20on%20Launched%20Date.png)
+![Outcomes Based on Launched Date](file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/Outcomes%20Based%20on%20Launched%20Date.png)
 ---
 ![Parent Category Outcomes](file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/Parent%20Category%20Outcomes.png)
 ---
