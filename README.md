@@ -35,8 +35,8 @@ The prescribed ranges for ‘Goal’ can be potentially misleading as between �
 
 ![Outcomes Based on Goals](file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/resources/Outcomes_vs_Goals.png)
 
-    -	Louise should look to focus on raising funds for plays with a goal of <$5,000
-    -	Plays with a goal of <$5,000 form three-fourths of all successful plays
+    - Louise should look to focus on raising funds for plays with a goal of <$5,000
+    - Plays with a goal of <$5,000 form three-fourths of all successful plays
 
 
 * What are some limitations of this dataset?
