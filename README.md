@@ -6,17 +6,17 @@ To analyze the outcomes of theater category campaigns based on date of launch, a
 
 ### Purpose
 
-To use analysis findings to help Louise determine an accurate fundraiser goal range and ideal launch period to focus on, and increase her probability of successful campaign outcomes   
+To use analysis findings to help Louise determine an accurate fundraiser goal range and ideal launch period to focus on, while increasing her probability of identifying successful campaign outcomes   
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-There is a greater chance of successful theater campaigns if they’re launched in May or June with the number of successful campaigns of this category being roughly twice as many as failed plus canceled campaigns while contributing to a quarter of the total theater campaigns launched throughout the year  
+There is a greater chance of successful theater campaigns if they’re launched in May or June, with the number of successful campaigns of this category being roughly twice as many as failed plus canceled campaigns. Campaigns launched in this period also contribute to a quarter of the total theater campaigns launched throughout the year  
 
 ### Analysis of Outcomes Based on Goals
 
-Louise should look to focus on raising funds for plays with a goal of <$5000 as it increases her likelihood of success as well as forming three-fourths of all successful plays
+Louise should look to focus on raising funds for plays with a goal of <$5000, as it increases her likelihood of success as well as forming three-fourths of all successful plays
 
 ### Challenges and Difficulties Encountered
 
