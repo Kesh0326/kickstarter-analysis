@@ -26,14 +26,14 @@ The prescribed ranges for ‘Goal’ can be potentially misleading as between �
 
 * What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Outcomes Based on Launch Date](file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/Kesh0326/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
     - There is a greater chance of successful theater campaigns if they’re launched in May or June
     - Theater campaigns launched in May and June form a quarter of the total theater campaigns launched throughout the year 
 
 * What can you conclude about the Outcomes based on Goals?
 
-![Outcomes Based on Goals](file:///Users/kesh/Desktop/Data%20Analytics%20Bootcamp/Analysis%20Projects/Crowdfunding%20Analysis/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/Kesh0326/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png)
 
     - Louise should look to focus on raising funds for plays with a goal of <$5,000
     - Plays with a goal of <$5,000 form three-fourths of all successful plays
